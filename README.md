@@ -33,11 +33,11 @@ Build a strong foundation in DSA and improve my problem-solving skills through c
 
 A simple practice problem to detect whether a list contains duplicate elements.
 
-**Code:** [View Python File](finding%20duplicate.py)
+**Code:** [View Python File](finding_duplicate.py)
 
 **Screenshot:**
 
-![Duplicate Finding Solution](finding duplicate.png)
+![Duplicate Finding Solution](finding_duplicate.png)
 
 ## 📈 Progress
 
